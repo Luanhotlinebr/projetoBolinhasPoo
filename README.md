@@ -1,4 +1,4 @@
 # Programação Orientada a Objetos
 
-[Acesse o projeto aqui](https://projeto-bolinhas-poo.vercel.app/)
+<a href="https://projeto-bolinhas-poo.vercel.app/" target="_blank">👉 Acesse o projeto aqui</a>
  
